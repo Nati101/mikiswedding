@@ -21,12 +21,14 @@ h1 {
     font-weight: normal;
     font-size: 4rem;
     margin-top: 5rem;
+    color: rgb(63, 35, 14);
 }
 
 .countdown-container {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    color:rgb(211, 63, 26);
 }
 
 .big-text {
@@ -43,15 +45,3 @@ h1 {
 .countdown-el span {
     font-size: 1.3rem;
 }
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
